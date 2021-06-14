@@ -9,4 +9,4 @@ The features used are the main page which contains information on the converted 
 Aplikasi ini membantu pengguna melihat perbandingan nilai rupiah untuk keperluan yang dibutuhkan seperti membandingkan nilai kurs dalam bisnis maupun saat mereka bepergian ke negara asing. Dengan cara sekali klik, sehingga memudahkan dan mempercepat pekerjaan pengguna.
 Adapun fitur yang digunakan ialah halaman utama yang memuat keterangan nilai mata uang rupiah yang dikonversikan, kemudian beberapa mata uang asing yang dipiliih untuk dikonversikan dan keterangan hasil konversi yang telah dilakukan.
 
->> Sarah Adila dan Hilyatul Ula <<
+>> Sarah Adila dan Hilyatul Ula
